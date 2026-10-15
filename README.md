@@ -3,7 +3,7 @@
 A product case study for an app that decides each day's menu so every household member's protein and fibre targets are met, without the user having to check or approve it each day. This is Part 1 of 3: the menu decision engine.
 
 ## Links
-- Live PRD and Specs: https://ubiquitous-hummingbird-5b5550.netlify.app
+- Live PRD and Specs: https://steady-brigadeiros-fd652e.netlify.app
 - Clickable prototype (sample data): https://meal-planner-prototype.lovable.app
 
 ## What's in this repo
